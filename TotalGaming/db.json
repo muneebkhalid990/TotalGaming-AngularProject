@@ -1,0 +1,26 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "SignInUsers": [
+    {
+      "email": "muneeb@gmail.com",
+      "password": "muneeb123"
+    },
+    {
+      "email": "ahmad@gmail.com",
+      "password": "ahmad123"
+    },
+    {
+      "email": "azan@gmail.com",
+      "password": "azan123"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

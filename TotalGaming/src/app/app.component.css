@@ -1,0 +1,14 @@
+.pointer
+{
+    cursor: pointer;
+}
+nav
+{
+    background-color: red;
+}
+.navbar-brand
+{
+    font-weight: bold;
+    font-family: Cursive;
+    padding-right: 6%;
+}

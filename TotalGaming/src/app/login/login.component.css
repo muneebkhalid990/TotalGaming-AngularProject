@@ -1,0 +1,45 @@
+.login-wrapper
+{
+    margin: 10rem auto;
+    width: 25rem;
+    height: 20rem;
+}
+
+input
+{
+    margin-bottom: 2rem;
+}
+.card
+{
+    background: rgb(37, 47, 54);
+
+}
+img
+{
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+    height: 1000px;
+}
+button
+{
+    background-color: #414f62;
+    border-color: #34455e;
+}
+h1
+{
+    color: white;
+    text-align: center;
+    padding-bottom: 4%;
+    font-family: Cursive;
+}
+h1,.name{
+    font-family:Old English Text MT;
+    font-size: 200%;
+}
+.button[ngcontent-ajs-c50] {
+    background-color: #34414a;
+    border-color: #34455e;
+}
